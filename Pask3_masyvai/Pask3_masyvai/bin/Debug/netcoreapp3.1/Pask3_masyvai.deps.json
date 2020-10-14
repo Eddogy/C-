@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pask3_masyvai/1.0.0": {
+        "runtime": {
+          "Pask3_masyvai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pask3_masyvai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

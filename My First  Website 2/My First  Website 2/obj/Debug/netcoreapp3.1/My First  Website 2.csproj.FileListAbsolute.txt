@@ -1,0 +1,18 @@
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\My First  Website 2.exe
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\My First  Website 2.deps.json
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\My First  Website 2.runtimeconfig.json
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\My First  Website 2.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\My First  Website 2.dll
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\bin\Debug\netcoreapp3.1\My First  Website 2.pdb
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\My First  Website 2.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\staticwebassets\My First  Website 2.StaticWebAssets.Manifest.cache
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\staticwebassets\My First  Website 2.StaticWebAssets.xml
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\My First  Website 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\My First  Website 2.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\My First  Website 2.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\My First  Website 2.RazorTargetAssemblyInfo.cache
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\My First  Website 2.dll
+C:\Users\moksleivis\source\repos\My First  Website 2\My First  Website 2\obj\Debug\netcoreapp3.1\My First  Website 2.pdb

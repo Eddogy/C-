@@ -1,0 +1,11 @@
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\bin\Debug\netcoreapp3.1\Juodrastis.exe
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\bin\Debug\netcoreapp3.1\Juodrastis.deps.json
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\bin\Debug\netcoreapp3.1\Juodrastis.runtimeconfig.json
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\bin\Debug\netcoreapp3.1\Juodrastis.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\bin\Debug\netcoreapp3.1\Juodrastis.dll
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\bin\Debug\netcoreapp3.1\Juodrastis.pdb
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\obj\Debug\netcoreapp3.1\Juodrastis.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\obj\Debug\netcoreapp3.1\Juodrastis.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\obj\Debug\netcoreapp3.1\Juodrastis.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\obj\Debug\netcoreapp3.1\Juodrastis.dll
+C:\Users\moksleivis\source\repos\Juodrastis\Juodrastis\obj\Debug\netcoreapp3.1\Juodrastis.pdb

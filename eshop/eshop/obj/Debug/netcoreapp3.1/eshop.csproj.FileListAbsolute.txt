@@ -1,0 +1,11 @@
+C:\Users\moksleivis\source\repos\eshop\eshop\bin\Debug\netcoreapp3.1\eshop.exe
+C:\Users\moksleivis\source\repos\eshop\eshop\bin\Debug\netcoreapp3.1\eshop.deps.json
+C:\Users\moksleivis\source\repos\eshop\eshop\bin\Debug\netcoreapp3.1\eshop.runtimeconfig.json
+C:\Users\moksleivis\source\repos\eshop\eshop\bin\Debug\netcoreapp3.1\eshop.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\eshop\eshop\bin\Debug\netcoreapp3.1\eshop.dll
+C:\Users\moksleivis\source\repos\eshop\eshop\bin\Debug\netcoreapp3.1\eshop.pdb
+C:\Users\moksleivis\source\repos\eshop\eshop\obj\Debug\netcoreapp3.1\eshop.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\eshop\eshop\obj\Debug\netcoreapp3.1\eshop.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\eshop\eshop\obj\Debug\netcoreapp3.1\eshop.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\eshop\eshop\obj\Debug\netcoreapp3.1\eshop.dll
+C:\Users\moksleivis\source\repos\eshop\eshop\obj\Debug\netcoreapp3.1\eshop.pdb

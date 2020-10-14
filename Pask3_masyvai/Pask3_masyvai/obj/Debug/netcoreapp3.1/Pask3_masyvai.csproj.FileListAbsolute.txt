@@ -1,0 +1,11 @@
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\bin\Debug\netcoreapp3.1\Pask3_masyvai.exe
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\bin\Debug\netcoreapp3.1\Pask3_masyvai.deps.json
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\bin\Debug\netcoreapp3.1\Pask3_masyvai.runtimeconfig.json
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\bin\Debug\netcoreapp3.1\Pask3_masyvai.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\bin\Debug\netcoreapp3.1\Pask3_masyvai.dll
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\bin\Debug\netcoreapp3.1\Pask3_masyvai.pdb
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\obj\Debug\netcoreapp3.1\Pask3_masyvai.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\obj\Debug\netcoreapp3.1\Pask3_masyvai.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\obj\Debug\netcoreapp3.1\Pask3_masyvai.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\obj\Debug\netcoreapp3.1\Pask3_masyvai.dll
+C:\Users\moksleivis\source\repos\Pask3_masyvai\Pask3_masyvai\obj\Debug\netcoreapp3.1\Pask3_masyvai.pdb
